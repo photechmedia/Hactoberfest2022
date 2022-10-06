@@ -1,6 +1,5 @@
 // sum and product of digit is same
 
-//Armstrong  153=1^3+5^3+3^3=153
 
 class SpyNumber {
   public static void main(String args[]) {
