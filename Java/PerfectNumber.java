@@ -1,6 +1,3 @@
-//Highest didgit of given Number
-//print even number from m to n
-
 import java.util.Scanner;
 
 class PerfectNumber
