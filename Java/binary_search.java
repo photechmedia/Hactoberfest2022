@@ -18,7 +18,10 @@ class BinarySearchExample{
  }  
  public static void main(String args[]){  
         int arr[] = {10,20,30,40,50};  
-        int key = 30;  
+      
+        Scanner sc=new Scanner(System.in);
+        Syste.out.println("Enter the key : ");
+        int key=sc.nextInt();
         int last=arr.length-1;  
         binarySearch(arr,0,last,key);     
  }  
