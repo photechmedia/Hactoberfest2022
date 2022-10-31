@@ -50,7 +50,7 @@ public class GuessTheNumber
 
                     System.out.println("No. of attempts= "+c1);
 
-                    System.out.println("Unsuccessful attempts= "+c1+" Successful attempts= 0");
+                    System.out.println("Unsuccessful Attempts= "+c1+" Successful Attempts= 0");
 
                     System.out.println("\nIf you want to continue, go ahead and enter Y for Yes. \nElse,want to leave game enter N for No.");
 
@@ -74,7 +74,7 @@ public class GuessTheNumber
 
                     System.out.println("No. of attempts= "+c2);
 
-                    System.out.println("Unsuccessful attempts= "+c2+" Successful attempts= 0");
+                    System.out.println("Unsuccessful Attempts= "+c2+" Successful Attempts= 0");
 
                     System.out.println("\nIf you want to continue, go ahead and enter Y for Yes. \nElse,want to leave game enter N for No.");
 
@@ -100,7 +100,7 @@ public class GuessTheNumber
 
                     System.out.println("No. of attempts= "+c3);
 
-                    System.out.println("Unsuccessful attempts= "+(c3-1)+" Successful attempts= 1.");
+                    System.out.println("Unsuccessful Attempts= "+(c3-1)+" Successful Attempts= 1.");
 
                     break;
 
