@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hacktoberfest2022 <br></h1>
+<h1 align="center">Hacktoberfest 2023 <br></h1>
 <h4 align=center>Hacktoberfest is a month-long celebration of open source software sponsored by Digital Ocean, Intel, and DEV.</h4>
 
 
